@@ -6834,3 +6834,7 @@ body {
 .content-news-h3 {
   min-height: 54px;
 }
+
+.cursor-pointer{
+  cursor: pointer;
+}
