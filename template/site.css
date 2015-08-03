@@ -6838,3 +6838,11 @@ body {
 .cursor-pointer{
   cursor: pointer;
 }
+
+.paddind-form-contato{
+  margin-bottom: 10px;
+}
+
+.openProjectsClients{
+  cursor: pointer;
+}
